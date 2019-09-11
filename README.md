@@ -4,3 +4,4 @@ second line in master file
 third line in master file
 
 new line added
+fourth line
